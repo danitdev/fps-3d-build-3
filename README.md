@@ -19,12 +19,13 @@ This project was built to experiment with FPS mechanics inspired by the movement
 * Multiple weapons
 * Weapon switching using the mouse wheel
 * Shooting system
+* Weapon reloading
 * Pistol with animation
 * Additional weapons currently have no shooting animations
 
 ### 🤖 Enemy AI
 
-Enemies have different states and behaviors, including:
+Enemies use a state-based system with different behaviors, including:
 
 * Idle
 * Following the player
@@ -51,10 +52,12 @@ The project uses Unity's **New Input System** for handling player controls and g
 | `Space`       | Jump              |
 | `Mouse Wheel` | Switch Weapons    |
 | `Left Click`  | Shoot             |
+| `R`           | Reload            |
 
 ## 📸 Screenshots
 
 <img width="883" height="496" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/8883e085-83a4-4661-8789-c4223a26680c" />
+
 
 ## 🛠️ Built With
 
@@ -65,6 +68,9 @@ The project uses Unity's **New Input System** for handling player controls and g
 
 ### Prerequisites
 
+* Unity Hub
+* A compatible version of Unity
+
 ### Installation
 
 1. Clone the repository:
@@ -73,7 +79,10 @@ The project uses Unity's **New Input System** for handling player controls and g
 git clone https://github.com/your-username/your-repository.git
 ```
 
-2. use winrar to extract the file and run the exe
+2. Open the project in **Unity Hub**.
+3. Open the main scene.
+4. Press **Play** and experiment with the FPS systems.
+
 ## 📌 Project Status
 
 🟡 **Prototype**
@@ -83,10 +92,10 @@ This project is primarily focused on experimenting with FPS systems and mechanic
 The main focus was on:
 
 * FPS movement
-* Weapon switching and shooting
+* Weapon switching, shooting, and reloading
 * Enemy state machines
 * Player/enemy interactions
-* Pickups
+* Health and ammo pickups
 * Unity's New Input System
 
 ## 🎯 Inspiration
