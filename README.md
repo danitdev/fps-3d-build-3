@@ -74,14 +74,8 @@ The project uses Unity's **New Input System** for handling player controls and g
 ### Installation
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-```
-
-2. Open the project in **Unity Hub**.
-3. Open the main scene.
-4. Press **Play** and experiment with the FPS systems.
+2. Extract the winrar file
+3. Run the exe
 
 ## 📌 Project Status
 
