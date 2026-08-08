@@ -60,7 +60,6 @@ The project uses Unity's **New Input System** for handling player controls and g
 
 * **Unity**
 * **C#**
-* **Unity Input System**
 
 ## 🚀 Getting Started
 
