@@ -66,10 +66,6 @@ The project uses Unity's **New Input System** for handling player controls and g
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-* Unity Hub
-* A compatible version of Unity
 
 ### Installation
 
